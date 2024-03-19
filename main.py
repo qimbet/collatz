@@ -1,5 +1,6 @@
 #Collatz conjecture solver
-#This is code to iterate through the Collatz conjecture until an input value reaches 1. If the value does not iterate to 1, the program will say so. 
+#This is code to iterate through the Collatz conjecture until an input value reaches 1. 
+#This project does not account for the case in which the Collatz sequence does not lead to 1. 
 
 #Collatz Conjecture: 
 #For any positive integer:
